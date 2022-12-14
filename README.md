@@ -5,6 +5,8 @@
 First, register at https://viewdns.info/api/#register and confirm your account from the link in your mailbox. After performing these operations, your API key will be sent to your mailbox. Moreover
 By logging into https://viewdns.info/api/# you can see both your API key and remaining requests.
 
+Install libraries used with pip install -r requirements.txt
+
 API key save paths
 
 **If any of these 3 items is absent, the vehicle will not start.**
@@ -26,6 +28,8 @@ Supported domain formats: :point_down:
 
 Öncelikle https://viewdns.info/api/#register adresinden kayıt olun ve mail kutunuzdaki linkten hesabınızı onaylayın. Bu işlemleri gerçekleştirdikten sonra API anahtarınız mail kutunuza gönderilecektir. Dahası
 https://viewdns.info/api/# giriş yaparak hem API anahtarınızı hem de kalan istekleri görebilirsiniz.
+
+pip install -r requirements.txt ile kullanılan kütüphaneleri yükleliyiniz.
 
 API anahtarı kaydetme yolları
 
